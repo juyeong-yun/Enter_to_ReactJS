@@ -2,8 +2,9 @@
 - 기간 : 2024/09/02
 
 ### 웹 배포 
-https://juyeong-yun.github.io/enter-to-js
-  
+서버 - https://juyeong-yun.github.io/enter-to-reactjs/
+
+
 ### 기능
 - Home, About
 - Counter 
