@@ -1,7 +1,8 @@
 ## Enter to ReactJS
 - 기간 : 2024/09/02
 
-### 웹 배포 : https://juyeong-yun.github.io/enter-to-js
+### 웹 배포 
+https://juyeong-yun.github.io/enter-to-js
   
 ### 기능
 - Home, About
